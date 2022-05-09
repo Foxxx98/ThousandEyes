@@ -1,0 +1,3 @@
+create database EmpresaVidrieraUTP
+
+drop database EmpresaVidrieraUTP
